@@ -1,0 +1,17 @@
+body{
+    background-color: rgba(90, 141, 143, 0.37);
+    
+}
+h3{
+color: black;
+font-size: 15;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1,h2{
+    font-size: 30;
+    color: #8A2BE2;
+}
+p{
+    font-size: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
